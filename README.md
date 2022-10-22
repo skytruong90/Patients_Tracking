@@ -1,5 +1,7 @@
 # This is a Patients Tracking Project that I have been working on.
 
+## Code this in Java.
+
 Problem: After an unusually successful round of fundraising this year, the Dean of Medicine has allocated a sufficient budget that allows the IT Department of Valdosta Medicine to do a complete overhaul of the sometimes buggy and slow clinical admissions system, on the condition that it is quick, fast, secure, easy to use, and intuitive.
 
 Preliminary Information: Statuses Waiting - Waiting in lobby for exam room to open up Ready - Waiting for doctor in the exam room In-Progress - Currently being seen by doctor or nurse On hold - Patient in exam room waiting on doctor to return Checked out - Patient has finished their visit
